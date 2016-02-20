@@ -1,0 +1,40 @@
+#title-section {
+	padding: 100px 0px;
+	width: 250px;
+	margin: 0 auto;
+	padding-bottom: 75px;
+}
+
+.presents-text {
+	color: #BDBCBD;
+	font-size: 20px;
+}
+
+.title-text {
+	color: #50E3C2;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+.mobile-triangleheader {
+	width: 100%;
+	padding: 0px;
+}
+
+@media(min-width: 768px) {
+	.mobile-triangleheader{
+		display: none;
+	}
+}
+
+@media(min-width: 768px) {
+	#title-section {
+		height: 88vh;
+		padding-top: 175px;
+		padding-right: 70vw;
+	}
+	#header-image {
+		background-image: url("../images/header.png");
+		background-size: 100vw 600px;
+	}
+}

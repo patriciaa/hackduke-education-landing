@@ -1,0 +1,25 @@
+#contact {
+	background-color: #103261;
+	height: 200px;
+	text-align: center;
+}
+
+.line-footer {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.footer-icon {
+	padding:20px; 
+	color:#FFFFFF;
+	font-size: 0.7em;
+}
+
+.footer-icon:hover {
+	color: #50E3C2 !important;
+}
+
+.copyright {
+	padding-top: 30px;
+	color: #BDBCBD;
+}
