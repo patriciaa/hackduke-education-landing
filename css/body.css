@@ -65,14 +65,12 @@
 }
 
 .meet-text {
-	font-family: 'AvenirNext-Medium';
 	color: #FFFFFF;
 	padding-left: 125px;
 	font-size: 20px;
 }
 
 .speakers-text {
-	font-family: 'portermedium';
 	color: #50E3C2;
 	font-weight: bold;
 	font-size: 45px;
@@ -142,7 +140,6 @@
 }
 
 .name {
-	font-family: 'portermedium';
 	padding-top: 25px;
 	transform: translateX(-40px);
 	color: #50E3C2;
@@ -159,7 +156,6 @@
 
 .title {
 	transform: translateX(-68px);
-	font-family: 'AvenirNext-MediumItalic';
 	color: #FFFFFF;
 	font-size: 20px;
 }
