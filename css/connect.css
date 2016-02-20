@@ -4,6 +4,7 @@
 }
 
 .connect-big-text {
+	font-family: 'portermedium';
 	color: #50E3C2;
 	padding-top: 50px;
 	font-size: 45px;
@@ -14,5 +15,3 @@
 		padding-top: 25px;
 	}
 }
-
-

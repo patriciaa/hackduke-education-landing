@@ -6,11 +6,13 @@
 }
 
 .presents-text {
+	font-family: 'AvenirNext-Medium';
 	color: #BDBCBD;
 	font-size: 20px;
 }
 
 .title-text {
+	font-family: 'portermedium';
 	color: #50E3C2;
 	font-weight: bold;
 	font-size: 45px;
