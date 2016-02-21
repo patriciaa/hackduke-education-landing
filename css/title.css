@@ -35,6 +35,6 @@
 	}
 	#header-image {
 		background-image: url("../images/header.png");
-		background-size: 100vw 600px;
+		background-size: 100vw 88vh;
 	}
 }

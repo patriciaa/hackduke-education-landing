@@ -1,15 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1024px" height="209px" viewBox="0 0 1024 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 11trianglebanner-bottom</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(0.000000, -4567.000000)">
-            <g id="Group-11" sketch:type="MSLayerGroup" transform="translate(0.000000, 4567.000000)">
-                <polygon id="Triangle-1" fill="#0C2B55" sketch:type="MSShapeGroup" transform="translate(512.000000, 104.561542) scale(1, -1) translate(-512.000000, -104.561542) " points="-2.84217094e-14 1 1024 1 1024 208.123083 "></polygon>
-                <polygon id="Triangle-1" fill="#1F4776" sketch:type="MSShapeGroup" transform="translate(512.000000, 103.561542) scale(-1, -1) translate(-512.000000, -103.561542) " points="-2.84217094e-14 0 1024 0 1024 207.123083 "></polygon>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px" height="208px"
+	 viewBox="0 0 1024 208" enable-background="new 0 0 1024 208" xml:space="preserve">
+<title>Group 9trianglebanner-top</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Desktop" transform="translate(0.000000, -1234.000000)" sketch:type="MSArtboardGroup">
+		<g id="Group-9" transform="translate(0.000000, 1234.000000)" sketch:type="MSLayerGroup">
+			<polygon id="Triangle-1" sketch:type="MSShapeGroup" fill="#0C2B55" points="0,1 0,208.123 1024,208.123 			">
+			</polygon>
+			<polygon id="Triangle-1_1_" sketch:type="MSShapeGroup" fill="#1F4776" points="1024,1 1024,208.123 0,208.123 			">
+			</polygon>
+		</g>
+	</g>
+</g>
 </svg>

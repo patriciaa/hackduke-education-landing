@@ -1,3 +1,7 @@
+#navbar-container {
+  min-height: 100px;
+}
+
 #navbar-main {
   background-color: #FFFFFF;
   border: 0px;
