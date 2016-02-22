@@ -141,7 +141,7 @@
 
 .title {
 	font-family: 'AvenirNext-MediumItalic';
-	transform: translateX(-63px);
+	transform: translateX(-20px);
 	color: #FFFFFF;
 	font-size: 20px;
 }
@@ -183,7 +183,7 @@
 	}
 	.title {
 		font-size: 25px;
-		transform: translateX(-105px);
+		transform: translateX(-30px);
 	}
 	.name-title-separator {
 		transform: translateX(-130px);
