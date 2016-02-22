@@ -2,7 +2,6 @@
 var isDesktop = window.innerWidth >= 768
 var navbarPos = isDesktop ? $("#navbar-main").position().top : 0;
 $(window).bind('scroll', function(e) {
-  console.log(navbarPos);
   if ($(window).scrollTop() > navbarPos) {
     $('#navbar-main').addClass('navbar-fixed-top');
   }
