@@ -1,14 +1,14 @@
-@font-face {
-    font-family: 'portermedium';
-    src: url('porter_medium-webfont.eot');
-    src: url('porter_medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('porter_medium-webfont.woff2') format('woff2'),
-         url('porter_medium-webfont.woff') format('woff'),
-         url('porter_medium-webfont.ttf') format('truetype'),
-         url('porter_medium-webfont.svg#portermedium') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+/* @font-face { */
+/*     font-family: 'portermedium'; */
+/*     src: url('porter_medium-webfont.eot'); */
+/*     src: url('porter_medium-webfont.eot?#iefix') format('embedded-opentype'), */
+/*          url('porter_medium-webfont.woff2') format('woff2'), */
+/*          url('porter_medium-webfont.woff') format('woff'), */
+/*          url('porter_medium-webfont.ttf') format('truetype'), */
+/*          url('porter_medium-webfont.svg#portermedium') format('svg'); */
+/*     font-weight: normal; */
+/*     font-style: normal; */
+/* } */
 
 @font-face {
   font-family: 'AvenirNext-Regular';
@@ -64,7 +64,7 @@
 }
 
 .connect-big-text {
-	font-family: 'portermedium';
+	/* font-family: 'portermedium'; */
 	color: #50E3C2;
 	padding-top: 50px;
 	font-size: 45px;
