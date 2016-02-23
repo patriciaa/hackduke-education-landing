@@ -154,6 +154,10 @@
  	margin: 0 auto;
 }
 
+.info a {
+  color: #50E3C2;
+}
+
 @media(min-width: 768px) {
 	.solid-speaker {
 		height: 480px;
